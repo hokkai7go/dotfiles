@@ -11,7 +11,7 @@ set shiftwidth=2
 set softtabstop=2
 :colorscheme colorful256
 "スワップファイル用のディレクトリ
-set directory=$HOME/.vim/swaps
+set directory=$HOME/dotfiles/.vim/swaps
 
 if has('vim_starting')
   set runtimepath+=~/.vim/neobundle.vim
