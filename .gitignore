@@ -1,2 +1,4 @@
 # Ignore swap file
 .vim / swaps
+# Ignore bundle
+.vim/bundle
