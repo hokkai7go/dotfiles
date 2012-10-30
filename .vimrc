@@ -15,6 +15,10 @@ set softtabstop=2
 "スワップファイルはもういらない
 set noswapfile
 
+"タブ、空白、改行の可視化
+set list
+set listchars=tab:»-,trail:-,eol:↲,extends:»,precedes:«,nbsp:%
+
 if has('vim_starting')
   set runtimepath+=~/.vim/neobundle.vim
   call neobundle#rc(expand('~/.vim/bundle/'))
