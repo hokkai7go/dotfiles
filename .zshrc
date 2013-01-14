@@ -67,6 +67,7 @@ setopt no_beep
 
 ### set alias
 alias r="rails"
+alias be="bundle exec"
 alias mv="mv -i"
 alias la="ls -lhAF --color=auto"
 alias ll='ls -l'
