@@ -36,6 +36,7 @@ NeoBundle 'scrooloose/syntastic'
 NeoBundle 'https://bitbucket.org/kovisoft/slimv'
 NeoBundle 'tpope/vim-rails'
 NeoBundle 'Lokaltog/vim-powerline'
+NeoBundle 'scrooloose/nerdtree'
 
 filetype plugin indent on     " required!
 filetype indent on
