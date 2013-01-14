@@ -72,6 +72,7 @@ alias mv="mv -i"
 alias la="ls -lhAF --color=auto"
 alias ll='ls -l'
 alias pry='nocorrect pry'
+alias gits="git status"
 alias ruby2='/usr/local/bin/ruby'
 
 export CPPFLAGS=-I/opt/X11/include
