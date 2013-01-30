@@ -71,6 +71,8 @@ alias be="bundle exec"
 alias mv="mv -i"
 alias la="ls -lhAF --color=auto"
 alias ll='ls -l'
+alias gc='git commit'
+alias gs='git status'
 alias pry='nocorrect pry'
 alias gits="git status"
 alias subl="nocorrect subl"
