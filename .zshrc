@@ -72,7 +72,11 @@ alias mv="mv -i"
 alias la="ls -lhAF --color=auto"
 alias ll='ls -l'
 alias gc='git commit'
+alias gd='git diff'
+alias gf='git fetch'
 alias gs='git status'
+alias gta='git treeall'
+alias gru='git remote update'
 alias pry='nocorrect pry'
 alias gits="git status"
 alias subl="nocorrect subl"
