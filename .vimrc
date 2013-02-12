@@ -38,6 +38,8 @@ NeoBundle 'tpope/vim-rails'
 NeoBundle 'Lokaltog/vim-powerline'
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'tpope/vim-fugitive'
+NeoBundle 'nathanaelkane/vim-indent-guides'
+NeoBundle 'scrooloose/nerdcommenter'
 
 filetype plugin indent on     " required!
 filetype indent on
