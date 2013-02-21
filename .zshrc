@@ -77,6 +77,7 @@ alias gf='git fetch'
 alias gs='git status'
 alias gta='git treeall'
 alias gru='git remote update'
+alias gfa='git fetch --all'
 alias pry='nocorrect pry'
 alias gits="git status"
 alias subl="nocorrect subl"
