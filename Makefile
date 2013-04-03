@@ -1,4 +1,5 @@
 DOT_FILES = .zshrc .vimrc .vim
+vim: vim
 all: zsh vim 
 zsh: $(foreach f, $(filter .zsh%, $(DOT_FILES)), link-dot-file-$(f))
 vim: $(foreach f, $(filter .vim%, $(DOT_FILES)), link-dot-file-$(f))
