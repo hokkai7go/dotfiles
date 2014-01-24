@@ -9,6 +9,7 @@ set smartindent
 set tabstop=2
 set shiftwidth=2
 set softtabstop=2
+set t_Co=256
 :colorscheme colorful256
 "スワップファイル用のディレクトリ
 "set directory=$HOME/dotfiles/.vim/swaps
