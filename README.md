@@ -23,3 +23,14 @@ $ git clone https://github.com/Shougo/vimproc ~/.vim/bundle/vimproc
 $ vim
 :NeoBundleInstall
 ```
+
+## Colorful256
+
+Download colorscheme file
+http://www.vim.org/scripts/script.php?script_id=2034
+
+```
+$ mkdir ~/.vim/colors
+```
+
+place colorscheme file to this location.
